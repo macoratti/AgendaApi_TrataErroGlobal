@@ -199,7 +199,10 @@ Este projeto foi gerado utilizando:
 - **Codex**
 - Abordagem **Spec-Driven Development (SDD)**
 
-A aplicação foi criada a partir de especificações previamente definidas em um arquivo:
+A aplicação foi criada a partir de especificações previamente definidas nos arquivos da pasta Specs do projeto:
 
 ```text
 SPEC.md
+PLAN.md
+TASKS.md
+CONSTITUTION.md
